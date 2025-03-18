@@ -1,0 +1,321 @@
+[81132:259:0318/115814.761976:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[81132:259:0318/115817.063365:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.071684:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.071724:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073699:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073736:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073850:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073890:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073911:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073934:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073974:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.073992:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.074011:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.074027:INFO:CONSOLE(326)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iUhF4/yJ/l/rt/5CCs9U8_qweTb_8oQHLG8MN41JGpWru6XYn7EseCKI-Mt7FXuS46fOSkhz6fnwMTjUd14PdmJWIgbxNEkM44K5ZUolOzLyDccX0fd6yXjpTEWhv1Zg26LUF-4VynZskdzpzZ5t6jUotkDctHk9E89PFWQSXzq-GpdGh3NEtF1pvoKDPAAHRsIDVc0M5yH55prFzWVMfp2YhVEwpUIbjrzOD5coNihuO--W3YpnH8BMrsD8q__ujUzA4I_q7KS.js (326)
+[81132:259:0318/115817.840390:INFO:CONSOLE(75)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iuss4/yb/l/rt/izZwocgVl4ekeFrxv_lHobswjxmBl_V-1DQYXH7AwanOIVGmxwaYlCzXJwgM9NKsLLrdY0eU9NF4iXZJhwX0BQq_HW89dGINVMfh2tKnfwPYIhA2A-x-cNjqvcmE-DDcQsihbZJGGdT2VN_QLIkNXNQom05sx9Xd9ch3OBc2LCWPojaBqKRHNAt_rkFKsz62tEEth_2lkHmdOGcu-KFU2ysi9mdF6gHV2RdOVrQLSpkLc8o9Kejl5PRCK7W26BCyaJILCwuCuB6YMeMnA0Q9qMEkYMFZyz2jr_tFUjDMy.js (75)
+[81132:259:0318/115817.842366:INFO:CONSOLE(31)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iuss4/yb/l/rt/izZwocgVl4ekeFrxv_lHobswjxmBl_V-1DQYXH7AwanOIVGmxwaYlCzXJwgM9NKsLLrdY0eU9NF4iXZJhwX0BQq_HW89dGINVMfh2tKnfwPYIhA2A-x-cNjqvcmE-DDcQsihbZJGGdT2VN_QLIkNXNQom05sx9Xd9ch3OBc2LCWPojaBqKRHNAt_rkFKsz62tEEth_2lkHmdOGcu-KFU2ysi9mdF6gHV2RdOVrQLSpkLc8o9Kejl5PRCK7W26BCyaJILCwuCuB6YMeMnA0Q9qMEkYMFZyz2jr_tFUjDMy.js (31)
+[81132:259:0318/115817.850359:INFO:CONSOLE(31)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iuss4/yb/l/rt/izZwocgVl4ekeFrxv_lHobswjxmBl_V-1DQYXH7AwanOIVGmxwaYlCzXJwgM9NKsLLrdY0eU9NF4iXZJhwX0BQq_HW89dGINVMfh2tKnfwPYIhA2A-x-cNjqvcmE-DDcQsihbZJGGdT2VN_QLIkNXNQom05sx9Xd9ch3OBc2LCWPojaBqKRHNAt_rkFKsz62tEEth_2lkHmdOGcu-KFU2ysi9mdF6gHV2RdOVrQLSpkLc8o9Kejl5PRCK7W26BCyaJILCwuCuB6YMeMnA0Q9qMEkYMFZyz2jr_tFUjDMy.js (31)
+[81132:259:0318/115817.850919:INFO:CONSOLE(31)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4iuss4/yb/l/rt/izZwocgVl4ekeFrxv_lHobswjxmBl_V-1DQYXH7AwanOIVGmxwaYlCzXJwgM9NKsLLrdY0eU9NF4iXZJhwX0BQq_HW89dGINVMfh2tKnfwPYIhA2A-x-cNjqvcmE-DDcQsihbZJGGdT2VN_QLIkNXNQom05sx9Xd9ch3OBc2LCWPojaBqKRHNAt_rkFKsz62tEEth_2lkHmdOGcu-KFU2ysi9mdF6gHV2RdOVrQLSpkLc8o9Kejl5PRCK7W26BCyaJILCwuCuB6YMeMnA0Q9qMEkYMFZyz2jr_tFUjDMy.js (31)
+[81132:259:0318/115819.110336:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115819.110378:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115819.110402:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115819.110413:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115819.321229:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/ (0)
+[81132:259:0318/115820.811129:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"A_jJwb_HXSbcqCF2iUUveNs","payload":null,"lid":"7483179501919888361"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/115822.461811:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/115840.502766:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115840.502830:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115840.502852:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115840.502866:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115840.684602:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/sinkthesun/ (0)
+[81132:259:0318/115842.000495:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AjI1pnminQKpM0NO3lv2cgM","payload":null,"lid":"7483179593731117463"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/115843.867669:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/115907.615487:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115907.615569:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115907.615600:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115907.615611:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115907.785803:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/sinkthesun/ (0)
+[81132:259:0318/115909.208539:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"A11be4dhcFFFuRyn-IQFbuV","payload":null,"lid":"7483179713748745090"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/115910.832533:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/115923.214290:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115923.214343:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115923.214359:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115923.214369:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115923.574155:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/sinkthesun/ (0)
+[81132:259:0318/115925.070472:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AqIaegvMgQL9nVT7oz5ktlh","payload":null,"lid":"7483179781097889075"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/115926.639851:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/115950.269219:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115950.269490:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115950.269522:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115950.269538:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/115950.749551:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/sinkthesun/ (0)
+[81132:259:0318/115951.797483:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AMXu3yBCyM80kEKSSTOQOrd","payload":null,"lid":"7483179893618691925"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/115953.765284:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120016.850493:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120016.850550:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120016.850573:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120016.850599:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120017.026125:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/reels/audio/1127816175704141/ (0)
+[81132:259:0318/120018.640147:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AcGMRkyWTpBDZ0heveDjvAA","payload":null,"lid":"7483180009059548666"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120020.052366:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120043.415665:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120043.415732:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120043.415769:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120043.415782:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120043.684486:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/p/DHTaKviu2K7/liked_by/ (0)
+[81132:259:0318/120044.963559:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AVJTaebKiKlAjDDJmmf2JY-","payload":null,"lid":"7483180120359274871"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120046.885253:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120058.937073:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120058.937114:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120058.937129:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120058.937141:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120059.065155:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/kirks_insta/ (0)
+[81132:259:0318/120101.404519:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"ABzZ7oONsNLjzTfX1r1SQIP","payload":null,"lid":"7483180193891964074"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120102.078970:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120130.575156:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120130.575213:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120130.575247:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120130.575291:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120130.776848:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/jcritty/ (0)
+[81132:259:0318/120132.079819:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AuYRM-pgD1y23gxDpd64JjJ","payload":null,"lid":"7483180328571090033"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120133.787788:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120158.414756:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120158.414805:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120158.414826:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120158.414841:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120158.531863:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/jcritty/ (0)
+[81132:259:0318/120200.133237:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AK4f8xOKEsZc2NosOzW8ST2","payload":null,"lid":"7483180448215474031"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120201.669109:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120216.117610:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120216.117666:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120216.117693:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120216.117706:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120216.295285:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/jcritty/ (0)
+[81132:259:0318/120217.758090:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AhCjnarxME2JQm-ZHCHnRu-","payload":null,"lid":"7483180519835553322"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120219.319314:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120241.406530:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120241.406854:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120241.406890:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120241.406905:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120241.562519:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/jilbertos/ (0)
+[81132:259:0318/120243.039130:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"A1pfVQ-FiT_9UUEAwriB_oe","payload":null,"lid":"7483180631467472631"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120244.582004:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120307.361462:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120307.361549:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120307.361581:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120307.361596:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120307.562175:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/reels/audio/1121359242746746/ (0)
+[81132:259:0318/120308.816599:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"A-wxuCt-lhbDzpXsyMzR7Hr","payload":null,"lid":"7483180739677420019"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120310.765966:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120331.785112:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120331.785312:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120331.785341:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120331.785355:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120331.929502:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/p/DBgpJgiOy8P/liked_by/ (0)
+[81132:259:0318/120333.442178:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"A6t6EeH4uLwp8dwmQOTXwF9","payload":null,"lid":"7483180847929225747"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120335.273072:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120346.502691:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120346.502870:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120346.539122:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120346.539165:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120346.653684:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/ang3lev/ (0)
+[81132:259:0318/120348.107497:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"As_sWIpJjgDQN8SO-BRysSQ","payload":null,"lid":"7483180912474699970"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120349.889154:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120417.447003:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120417.447316:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120417.447348:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120417.447362:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120417.647390:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/vitor_personal/ (0)
+[81132:259:0318/120418.892250:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"API0sPJMqyf1nkXBvQftFsW","payload":null,"lid":"7483181040114239764"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120420.656407:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120428.735214:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/v3/signin/identifier?color_scheme=dark&flow=promo&ssp=1&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fcontinue%3Dhttps%253A%252F%252Faccounts.google.com%252FManageAccount%253Fnc%253D1%26est%3DAJeVM-uJXQ5mUYykRaa20TKhztbG2PsZOtgB49wjFzvcjEVmCg6NEItzReid_XTQu-Vv8UNFoH_IoGI6x_PRlBk&flowName=GlifDesktopChromeSync&dsh=S-1372694427%3A1742313868425540 (0)
+[81132:259:0318/120428.739478:INFO:CONSOLE(424)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US._TYUUES5Jmg.es5.O/am=iQHMEsMaQEH8Ofz_fuB8xzg9AAAAAAAAAACwAQAA5gE/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlF-itk2mjv-X3WbDDMfxRh9RkMS2A/m=_b,_tp (424)
+[81132:259:0318/120428.739503:INFO:CONSOLE(424)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US._TYUUES5Jmg.es5.O/am=iQHMEsMaQEH8Ofz_fuB8xzg9AAAAAAAAAACwAQAA5gE/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlF-itk2mjv-X3WbDDMfxRh9RkMS2A/m=_b,_tp (424)
+[81132:259:0318/120428.902215:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (64>32)
+[81132:259:0318/120428.902273:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (2048>32)
+[81132:259:0318/120428.902287:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (6112>32)
+[81132:259:0318/120428.902294:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (512>32)
+[81132:259:0318/120428.902298:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (1536>32)
+[81132:259:0318/120428.902303:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (128>32)
+[81132:259:0318/120428.902312:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (6112>32)
+[81132:259:0318/120428.902317:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (2048>32)
+[81132:259:0318/120428.902323:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16000>32)
+[81132:259:0318/120428.902328:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (14336>32)
+[81132:259:0318/120428.902333:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (4096>32)
+[81132:259:0318/120428.902337:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (64>32)
+[81132:259:0318/120428.902341:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (6112>32)
+[81132:259:0318/120428.902345:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (6144>32)
+[81132:259:0318/120428.902957:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16384>32)
+[81132:259:0318/120428.903002:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16384>32)
+[81132:259:0318/120428.903035:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16384>32)
+[81132:259:0318/120428.903068:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16384>32)
+[81132:259:0318/120428.903102:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16384>32)
+[81132:259:0318/120428.903145:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16384>32)
+[81132:259:0318/120428.903182:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (16024>32)
+[81132:259:0318/120428.903188:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (1048>32)
+[81132:259:0318/120428.903432:WARNING:hid_collection.cc(240)] encountered report item with invalid report size (50>32)
+[81132:259:0318/120428.909840:ERROR:web_contents_delegate.cc(293)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[81132:259:0318/120428.909878:ERROR:web_contents_delegate.cc(293)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[81132:259:0318/120429.164146:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[81132:259:0318/120429.164177:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[81132:259:0318/120432.746991:ERROR:new_tab_page_handler.cc(1341)] NewTabPage loaded into a non-browser-tab context
+[81132:259:0318/120444.429618:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120444.430101:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120444.430131:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120444.430145:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120444.608467:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/vitor_personal/ (0)
+[81132:259:0318/120446.141238:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"AqU27viIAMCa6_2WbwByYvr","payload":null,"lid":"7483181159754723153"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120447.684114:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120458.526741:INFO:CONSOLE(238)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120458.526790:INFO:CONSOLE(238)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120458.526829:INFO:CONSOLE(238)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120458.526846:INFO:CONSOLE(238)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (238)
+[81132:259:0318/120458.689670:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/vitor_personal/ (0)
+[81132:259:0318/120500.263320:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+DTSG response is not valid: {"__ar":1,"error":1357004,"errorSummary":"Sorry, something went wrong","errorDescription":"Please try closing and re-opening your browser window.","isNotCritical":1,"rid":"Anqmtw76fr0UdZz0H6o6hE7","payload":null,"lid":"7483181221360503508"}' [Caught in: [MAWRotateDTSG] Error rotating DTSG: (Error)]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yL/r/cawLthGkFUA.js (70)
+[81132:259:0318/120501.882854:INFO:CONSOLE(234)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/cawLthGkFUA.js (234)
+[81132:259:0318/120508.264694:ERROR:new_tab_page_handler.cc(1341)] NewTabPage loaded into a non-browser-tab context

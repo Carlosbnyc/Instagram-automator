@@ -1,0 +1,42 @@
+🔍 Finding users who liked this post...
+🚨 Error liking likers' posts: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//section/span[contains(@class,"fr66n")]/button"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104501804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001044f9ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010404dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001040951d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x00000001040d6678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010408935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001044c6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001044c9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001044a6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001044ca800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000104497ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001044ea45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001044ea5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001044f9a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019e0c02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019e0bb0fc thread_start + 8
+
+🔍 Finding users who liked this post...
+🚨 Error liking likers' posts: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//section/span[contains(@class,"fr66n")]/button"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104501804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001044f9ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010404dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001040951d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x00000001040d6678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010408935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001044c6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001044c9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001044a6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001044ca800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000104497ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001044ea45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001044ea5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001044f9a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019e0c02e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019e0bb0fc thread_start + 8
+
